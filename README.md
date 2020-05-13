@@ -1,6 +1,7 @@
 # 2D Terrain Generation
 
-- Launcher.java: this file renders all terrain in the window
+## Launcher.java: 
+this file renders all terrain in the window
   
- - Terrain
+ ## Terrain:
  the Terrain folder holds all layers of the terrain + trees
